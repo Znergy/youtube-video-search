@@ -6,6 +6,14 @@
 ## Description
 This project was created using React, Youtube Search API, and Bootstrap. The code was written following along with a Udemy course called 'Modern React with Redux'. This is the first project in the course, which covers 80% of React. The rest of the course focuses on Redux and all the fun that comes along with Redux.
 
+## To run this repo
+* Clone this repository
+* Navigate to the directory
+* type 'npm install'
+* type 'npm start'
+* open http://localhost:8080/
+* Search some videos!
+
 ## Udemy Course
 [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/), by Stephen Grider.
 
