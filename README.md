@@ -10,6 +10,8 @@ This project was created using React, Youtube Search API, and Bootstrap. The cod
 * Clone this repository
 * Navigate to the directory
 * type 'npm install'
+* Get a Youtube Data v3 API Key
+* Add your YT API Key to index.js
 * type 'npm start'
 * open http://localhost:8080/
 * Search some videos!
